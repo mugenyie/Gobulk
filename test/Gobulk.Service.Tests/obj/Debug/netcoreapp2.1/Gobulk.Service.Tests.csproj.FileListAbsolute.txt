@@ -1,0 +1,14 @@
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\Gobulk.Service.Tests.deps.json
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\Gobulk.Service.Tests.runtimeconfig.json
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\Gobulk.Service.Tests.runtimeconfig.dev.json
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\Gobulk.Service.Tests.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\bin\Debug\netcoreapp2.1\Gobulk.Service.Tests.pdb
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\obj\Debug\netcoreapp2.1\Gobulk.Service.Tests.csprojAssemblyReference.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\obj\Debug\netcoreapp2.1\Gobulk.Service.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\obj\Debug\netcoreapp2.1\Gobulk.Service.Tests.AssemblyInfoInputs.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\obj\Debug\netcoreapp2.1\Gobulk.Service.Tests.AssemblyInfo.cs
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\obj\Debug\netcoreapp2.1\Gobulk.Service.Tests.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\test\Gobulk.Service.Tests\obj\Debug\netcoreapp2.1\Gobulk.Service.Tests.pdb

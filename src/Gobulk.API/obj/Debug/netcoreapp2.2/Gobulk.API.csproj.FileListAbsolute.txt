@@ -1,0 +1,14 @@
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\bin\Debug\netcoreapp2.2\Gobulk.API.deps.json
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\bin\Debug\netcoreapp2.2\Gobulk.API.runtimeconfig.json
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\bin\Debug\netcoreapp2.2\Gobulk.API.runtimeconfig.dev.json
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\bin\Debug\netcoreapp2.2\Gobulk.API.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\bin\Debug\netcoreapp2.2\Gobulk.API.pdb
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.csproj.CoreCompileInputs.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.RazorAssemblyInfo.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.RazorAssemblyInfo.cs
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.AssemblyInfoInputs.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.AssemblyInfo.cs
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.RazorTargetAssemblyInfo.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.pdb
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.API\obj\Debug\netcoreapp2.2\Gobulk.API.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\obj\Debug\netcoreapp2.2\Gobulk.Core.csproj.CoreCompileInputs.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\obj\Debug\netcoreapp2.2\Gobulk.Core.AssemblyInfoInputs.cache
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\obj\Debug\netcoreapp2.2\Gobulk.Core.AssemblyInfo.cs
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\bin\Debug\netcoreapp2.2\Gobulk.Core.deps.json
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\bin\Debug\netcoreapp2.2\Gobulk.Core.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\bin\Debug\netcoreapp2.2\Gobulk.Core.pdb
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\obj\Debug\netcoreapp2.2\Gobulk.Core.dll
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\obj\Debug\netcoreapp2.2\Gobulk.Core.pdb
+C:\Users\mugen\OneDrive\Documents\Visual Studio 2019\Projects\Gobulk\src\Gobulk.Core\obj\Debug\netcoreapp2.2\Gobulk.Core.csprojAssemblyReference.cache
